@@ -1,5 +1,6 @@
 package com.trybe.contapoupanca;
 
+/** Método inicial. */
 public class ContaPoupanca {
   double saldo;
   String titularConta;
